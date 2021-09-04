@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot of the project](./screenshot.png)
+![screenshot of the project](https://github.com/alexvillhen/four-card-feature-section-master/blob/main/Screenshot.png?raw=true)
 
 
 ### Links
